@@ -1,3 +1,13 @@
+# To-Do List
+
+:hammer_and_wrench:1. Update Nodejs from v12.x.x to v15.x.x or as high as we can
+
+:hammer_and_wrench:2. Make the UI better looking
+
+:hammer_and_wrench:3. Swap GFX
+
+:hammer_and_wrench:4. Try to add more things to it like a token swap option
+
 # Substrate Front End Template
 
 This template allows you to create a front-end application that connects to a
